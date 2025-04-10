@@ -16,7 +16,7 @@ Conducted an in-depth data analysis of Adidas' sales performance using MS Power 
 
 ## Project Details:
 
-##Insights and Key Metrics:-
+<b>Insights and Key Metrics:-</b>
 
 Profitability and Sales Performance: The maximum operating profit of $390,000 and a sum of total sales amounting to $900 Million highlight the company's strong financial performance. The operating margin of 0.80 indicates the efficiency of operations, especially in high-performing regions like the Northeast and West.
 
