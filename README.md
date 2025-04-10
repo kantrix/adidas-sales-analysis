@@ -9,8 +9,7 @@ This report provides a detailed analysis of Adidas's sales performance using MS 
 ---
 
 ## **About Dataset**  
-
-Conducted an in-depth data analysis of Adidas' sales performance using MS Power BI, creating interactive dashboards to track key metrics such as UnitSold, product performance, regional sales trends, and customer demographics. Identified actionable insights to enhance decision-making and drive business growth.
+This project focuses on analyzing Adidas' sales performance using MS Power BI, creating interactive dashboards to track key metrics such as UnitSold, product performance, regional sales trends, and customer demographics. The analysis provides actionable recommendations for improving operational efficiency and customer satisfaction.
                   
 ---
 
